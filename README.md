@@ -1,2 +1,2 @@
-# CCNA-Modul-1-
-CCNA Modul-1 Pratikleri
+# CCNA-Modul-1
+Cisco Packet Tracer kullanarak yaptığım çeşitli pratikler
